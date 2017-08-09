@@ -5,3 +5,5 @@ ar_tags_follower是davidhan
 具体用法，详见我的csdn博客第6部分
 链接如下
 http://blog.csdn.net/David_Han008/article/details/70989972
+最终的效果如下：
+![image](https://github.com/DavidHan008/ar_tags_follower/Screenshot from 2017-08-09 16:10:07.png)
